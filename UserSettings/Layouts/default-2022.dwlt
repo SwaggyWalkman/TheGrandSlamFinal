@@ -45,8 +45,13 @@ MonoBehaviour:
   m_ShowMode: 4
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Title: Project
   m_RootView: {fileID: 2}
+=======
+  m_Title: Inspector
+  m_RootView: {fileID: 5}
+>>>>>>> Stashed changes
 =======
   m_Title: Inspector
   m_RootView: {fileID: 5}
@@ -233,7 +238,11 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 17
+=======
+  controlID: 25
+>>>>>>> Stashed changes
 =======
   controlID: 25
 >>>>>>> Stashed changes
@@ -319,7 +328,11 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 49
+=======
+  controlID: 69
+>>>>>>> Stashed changes
 =======
   controlID: 69
 >>>>>>> Stashed changes
@@ -402,7 +415,11 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_ActualView: {fileID: 17}
+=======
+  m_ActualView: {fileID: 21}
+>>>>>>> Stashed changes
 =======
   m_ActualView: {fileID: 21}
 >>>>>>> Stashed changes
