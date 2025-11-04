@@ -17,10 +17,16 @@ public class Player : MonoBehaviour
 
     private float horizontalScreenLimit = 9.5f;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     private float verticalScreenLimit = -6.5f;
 
     private float middleLineLmit = 3.25f;
 
+=======
+    private float verticalScreenLimit = 6.5f;
+
+    private float middleScreenLimit = 3.5f;
+>>>>>>> Stashed changes
 =======
     private float verticalScreenLimit = 6.5f;
 
@@ -71,6 +77,7 @@ public class Player : MonoBehaviour
             transform.position = new Vector3(transform.position.x, transform.position.y * -1, 0);
         }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         //The attempted area where I tried making the games border
         if (transform.position.y > middleLineLmit)
         { transform.position - new Vector3(transform.position.x, transform.position.y, verticalScreenLimit, 0); }
@@ -80,6 +87,8 @@ public class Player : MonoBehaviour
              transform.position = new Vector3(transform.position.x, verticalScreenLimit, 0);}
         
 =======
+=======
+>>>>>>> Stashed changes
 
 
         //Attempt 3 of changing the border scripts.
@@ -91,6 +100,9 @@ public class Player : MonoBehaviour
         {
             transform.position = new Vector3(transform.position.y, verticalScreenLimit, 0);
         }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
 
